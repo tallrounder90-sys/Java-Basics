@@ -20,3 +20,8 @@ public class BaseTypesDemo {
         System.out.println("Is this class fun? " + isClassFun);
     }
 }
+//Output
+Number of Students: 25
+Average Test Score: 87.5
+My First Initial: P
+Is this class fun? true
